@@ -1,10 +1,9 @@
-
-		var box = document.getElementById('box');
-		var bor = document.getElementById('bor');
-		var inp = document.getElementsByTagName('input')[0];
-		var timer = null;
-		var arr = [];
-		var arr1 = [];
+var box = document.getElementById('box');
+var bor = document.getElementById('bor');
+var inp = document.getElementsByTagName('input')[0];
+var timer = null;
+var arr = [];
+var arr1 = [];
 		var n = 0;
 		var x,y;
 		var onOff = false;
